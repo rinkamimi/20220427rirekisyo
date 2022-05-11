@@ -24,8 +24,8 @@
 .body
 {
     background-color: #fff;
-    padding:auto;
-    margin:auto ;
+    width: 800px;
+    margin: 0 auto ;
     border: solid;
     border-radius: 8px;
     
@@ -34,7 +34,9 @@
     background-color: #DDFFFF;
 }
 
+.waku{
 
+}
 
 
 
