@@ -21,7 +21,7 @@
     font-family: "メイリオ","Meiryo";
     font-weight: 800;
 }
-.body
+body
 {
     background-color: #fff;
     width: 800px;
@@ -30,7 +30,7 @@
     border-radius: 8px;
     
 }
-.html{
+html{
     background-color: #DDFFFF;
 }
 
