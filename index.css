@@ -38,6 +38,8 @@ html{
 }
 
 .waku{
+    border: solid;
+    border-radius: 4px;
 
 }
 
