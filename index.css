@@ -1,19 +1,19 @@
-h1{
+.h1{
     text-align: center;
     font-size: medium;
 
 }
 
-h2{
+.h2{
     font-size: small;
 }
 
-img {
+.img {
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
     width:  30%;              
 }
 
-pp1
+.pp1
  {
     height: 10rem;
     text-align: center;
@@ -21,7 +21,7 @@ pp1
     font-family: "メイリオ","Meiryo";
     font-weight: 800;
 }
-body
+.body
 {
     background-color: #fff;
     padding:40px 40px 50px 50px;
@@ -30,6 +30,12 @@ body
     border-radius: 8px;
     
 }
-html{
+.html{
     background-color: #DDFFFF;
 }
+
+.cad {
+    width: 50%
+
+}
+
