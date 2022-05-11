@@ -17,7 +17,9 @@ body
 {
     background-color: #fff;
     padding:40px 40px 50px 50px;
-    margin:20px auto;
+    margin:40px ;
+    border: solid;
+    border-radius: 8px;
     
 }
 html{
