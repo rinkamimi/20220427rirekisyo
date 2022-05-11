@@ -10,14 +10,15 @@ h2{
 
 img {
     border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
-    width:  180px;       /* ※縦横を同値に */
-    height: 180px;       /* ※縦横を同値に */
+    width:  50px;       /* ※縦横を同値に */
+    height: 50px;       /* ※縦横を同値に */
 }
 body
 {
     background-color: #fff;
-    padding:30px;
+    padding:30px 30px 30px;
     margin:20px auto;
+    
 }
 html{
     background-color: #DDFFFF;
