@@ -35,20 +35,6 @@ html{
     background-color: #DDFFFF;
 }
 
-a {
-    color: #fff;
-    text-decoration: none;
-    background-color: #4682b4;
-    display: block;
-    padding: 15px 25px;
-    border-radius: 5px;
-    box-shadow: 0 4px 0 0 #1e384d;
-    font-weight: bold;
-    width: 300px;
-    text-align: center;
-    margin: 110px auto 0;
-    letter-spacing: 2px;
-}
 
 
 
